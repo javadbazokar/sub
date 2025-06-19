@@ -1,4 +1,4 @@
-#⚡ Kodora.dev — The AI-Powered Universal Code Builder
+# ⚡ Kodora.dev — The AI-Powered Universal Code Builder
 
 **Kodora.dev** is a cutting-edge, AI-augmented full-stack code generation platform designed for developers, teams, and SaaS creators who want to **build apps, APIs, bots, UI components, workflows, and entire backend services in minutes — not weeks**.
 

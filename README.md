@@ -53,7 +53,7 @@ kodora.dev/
 ├── templates/ # Code templates
 ├── assets/ # CSS, JS, icons, themes
 ├── plugins/ # AI, DB, auth plugins & extensions └── README.md  # This file
-
+```
 ---
 
 ## ✨ Sample Use Cases

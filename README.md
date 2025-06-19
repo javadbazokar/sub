@@ -46,7 +46,8 @@ Kodora is engineered with a single vision: **eliminate tedious manual coding thr
 
 ## 📁 Folder Structure
 
-kodora/ 
+kodora.dev/ 
+
 ├── public/ # UI frontend (Frest-based)
 ├── api-builder/ # PHP backend logic 
 ├── templates/ # Code templates
